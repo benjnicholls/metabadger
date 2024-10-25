@@ -6,7 +6,6 @@
 """ Additional utils """
 import csv
 import json
-import pandas as pd
 from colorama import Fore, Back
 from tabulate import tabulate
 
